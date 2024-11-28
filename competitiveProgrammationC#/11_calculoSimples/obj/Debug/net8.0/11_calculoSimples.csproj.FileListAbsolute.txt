@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\11_calculoSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\11_calculoSimples.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\11_calculoSimples.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\11_calculoSimples.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\11_calculoSimples.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\bin\Debug\net8.0\11_calculoSimples.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\bin\Debug\net8.0\11_calculoSimples.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\bin\Debug\net8.0\11_calculoSimples.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\bin\Debug\net8.0\11_calculoSimples.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\bin\Debug\net8.0\11_calculoSimples.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\11_calculoSimples.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\refint\11_calculoSimples.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\11_calculoSimples.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\11_calculoSimples.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\11_calculoSimples\obj\Debug\net8.0\ref\11_calculoSimples.dll
