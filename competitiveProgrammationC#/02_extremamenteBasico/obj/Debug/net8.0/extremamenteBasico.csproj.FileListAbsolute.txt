@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\bin\Debug\net8.0\extremamenteBasico.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\refint\extremamenteBasico.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\extremamenteBasico.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\competitiveProgrammationC#\extremamenteBasico\obj\Debug\net8.0\ref\extremamenteBasico.dll
