@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\bin\Debug\net8.0\12_esfera.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\bin\Debug\net8.0\12_esfera.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\bin\Debug\net8.0\12_esfera.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\bin\Debug\net8.0\12_esfera.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\bin\Debug\net8.0\12_esfera.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\12_esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\12_esfera.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\12_esfera.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\12_esfera.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\12_esfera.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\12_esfera.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\refint\12_esfera.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\12_esfera.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\12_esfera.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\12_esfera\obj\Debug\net8.0\ref\12_esfera.dll

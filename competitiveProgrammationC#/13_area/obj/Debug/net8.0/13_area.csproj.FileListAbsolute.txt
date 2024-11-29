@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\bin\Debug\net8.0\13_area.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\bin\Debug\net8.0\13_area.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\bin\Debug\net8.0\13_area.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\bin\Debug\net8.0\13_area.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\bin\Debug\net8.0\13_area.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\13_area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\13_area.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\13_area.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\13_area.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\13_area.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\13_area.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\refint\13_area.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\13_area.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\13_area.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\13_area\obj\Debug\net8.0\ref\13_area.dll
