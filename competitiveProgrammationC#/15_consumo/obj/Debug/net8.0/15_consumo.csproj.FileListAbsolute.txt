@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\bin\Debug\net8.0\15_consumo.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\bin\Debug\net8.0\15_consumo.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\bin\Debug\net8.0\15_consumo.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\bin\Debug\net8.0\15_consumo.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\bin\Debug\net8.0\15_consumo.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\15_consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\15_consumo.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\15_consumo.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\15_consumo.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\15_consumo.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\15_consumo.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\refint\15_consumo.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\15_consumo.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\15_consumo.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\15_consumo\obj\Debug\net8.0\ref\15_consumo.dll
