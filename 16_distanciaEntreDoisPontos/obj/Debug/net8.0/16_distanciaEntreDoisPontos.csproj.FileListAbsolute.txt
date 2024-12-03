@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\bin\Debug\net8.0\16_distanciaEntreDoisPontos.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\bin\Debug\net8.0\16_distanciaEntreDoisPontos.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\bin\Debug\net8.0\16_distanciaEntreDoisPontos.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\bin\Debug\net8.0\16_distanciaEntreDoisPontos.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\bin\Debug\net8.0\16_distanciaEntreDoisPontos.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\16_distanciaEntreDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\16_distanciaEntreDoisPontos.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\16_distanciaEntreDoisPontos.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\16_distanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\16_distanciaEntreDoisPontos.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\16_distanciaEntreDoisPontos.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\refint\16_distanciaEntreDoisPontos.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\16_distanciaEntreDoisPontos.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\16_distanciaEntreDoisPontos.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\16_distanciaEntreDoisPontos\obj\Debug\net8.0\ref\16_distanciaEntreDoisPontos.dll
