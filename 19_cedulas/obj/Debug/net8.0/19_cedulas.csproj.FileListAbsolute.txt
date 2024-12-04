@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\bin\Debug\net8.0\19_cedulas.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\bin\Debug\net8.0\19_cedulas.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\bin\Debug\net8.0\19_cedulas.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\bin\Debug\net8.0\19_cedulas.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\bin\Debug\net8.0\19_cedulas.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\19_cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\19_cedulas.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\19_cedulas.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\19_cedulas.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\19_cedulas.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\19_cedulas.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\refint\19_cedulas.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\19_cedulas.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\19_cedulas.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\19_cedulas\obj\Debug\net8.0\ref\19_cedulas.dll
