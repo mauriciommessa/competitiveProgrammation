@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\bin\Debug\net8.0\20_conversaoDeTempo.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\bin\Debug\net8.0\20_conversaoDeTempo.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\bin\Debug\net8.0\20_conversaoDeTempo.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\bin\Debug\net8.0\20_conversaoDeTempo.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\bin\Debug\net8.0\20_conversaoDeTempo.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\20_conversaoDeTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\20_conversaoDeTempo.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\20_conversaoDeTempo.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\20_conversaoDeTempo.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\20_conversaoDeTempo.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\20_conversaoDeTempo.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\refint\20_conversaoDeTempo.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\20_conversaoDeTempo.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\20_conversaoDeTempo.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\20_conversaoDeTempo\obj\Debug\net8.0\ref\20_conversaoDeTempo.dll

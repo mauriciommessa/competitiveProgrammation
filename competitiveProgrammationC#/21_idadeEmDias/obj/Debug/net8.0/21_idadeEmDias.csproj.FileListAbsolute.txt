@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\bin\Debug\net8.0\21_idadeEmDias.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\bin\Debug\net8.0\21_idadeEmDias.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\bin\Debug\net8.0\21_idadeEmDias.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\bin\Debug\net8.0\21_idadeEmDias.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\bin\Debug\net8.0\21_idadeEmDias.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\21_idadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\21_idadeEmDias.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\21_idadeEmDias.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\21_idadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\21_idadeEmDias.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\21_idadeEmDias.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\refint\21_idadeEmDias.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\21_idadeEmDias.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\21_idadeEmDias.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\21_idadeEmDias\obj\Debug\net8.0\ref\21_idadeEmDias.dll
