@@ -1,0 +1,15 @@
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\22_notasMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\22_notasMoedas.AssemblyInfoInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\22_notasMoedas.AssemblyInfo.cs
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\22_notasMoedas.csproj.CoreCompileInputs.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\22_notasMoedas.sourcelink.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\bin\Debug\net8.0\22_notasMoedas.exe
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\bin\Debug\net8.0\22_notasMoedas.deps.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\bin\Debug\net8.0\22_notasMoedas.runtimeconfig.json
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\bin\Debug\net8.0\22_notasMoedas.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\bin\Debug\net8.0\22_notasMoedas.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\22_notasMoedas.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\refint\22_notasMoedas.dll
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\22_notasMoedas.pdb
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\22_notasMoedas.genruntimeconfig.cache
+C:\Users\MMessa\Documents\GitHub\competitiveProgrammation\22_notasMoedas\obj\Debug\net8.0\ref\22_notasMoedas.dll
